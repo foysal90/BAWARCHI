@@ -159,6 +159,38 @@
     border-bottom: solid 1px rgb(236, 15, 15);
 }
 
+.bwa h1::first-letter {
+    color: red;
+}
+
+.a{
+    color: green;
+}
+
+.w {
+    color: blueviolet;
+}
+
+.A {
+    color: navy;
+}
+
+.r {
+    color: cornflowerblue;
+}
+
+.c {
+    color: rgba(0, 128, 128, 0.524);
+}
+
+.h {
+    color: brown;
+}
+
+.i {
+    color: rgba(118, 77, 230, 0.823);
+}
+
 
 
 
